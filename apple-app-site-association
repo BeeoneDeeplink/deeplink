@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "K83MLX9HTA.com.beezone.app",
-                "appIDs": [ "K83MLX9HTA.com.beezone.app" ],
+                "appID": "K83MLX9HTA.com.bzpartners.app",
+                "appIDs": [ "K83MLX9HTA.com.bzpartners.app" ],
                 "paths": ["*","/works"],
                 "components": [
                     {
@@ -17,10 +17,10 @@
         ]
     },
     "webcredentials": {
-        "apps": [ "K83MLX9HTA.com.beezone.app" ]
+        "apps": [ "K83MLX9HTA.com.bzpartners.app" ]
     },
 
     "appclips": {
-        "apps": ["K83MLX9HTA.com.beezone.app"]
+        "apps": ["K83MLX9HTA.com.bzpartners.appp"]
     }
 }
