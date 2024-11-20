@@ -4,15 +4,16 @@
         "details": [
             {
                 "appID": "K83MLX9HTA.com.beezone.app",
-                "appIDs": [ "K83MLX9HTA.com.beezone.app" ],
                 "paths": ["*","/works"]
             }
         ]
     },
-    "webcredentials": {
-        "apps": [ "K83MLX9HTA.com.beezone.app" ]
+    "activitycontinuation": {
+        "apps": ["K83MLX9HTA.com.beezone.app"]
     },
-
+    "webcredentials": {
+        "apps": ["K83MLX9HTA.com.beezone.app"]
+    },
     "appclips": {
         "apps": ["K83MLX9HTA.com.beezone.app"]
     }
