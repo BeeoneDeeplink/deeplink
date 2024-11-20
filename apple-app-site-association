@@ -6,13 +6,6 @@
                 "appID": "K83MLX9HTA.com.beezone.app",
                 "appIDs": [ "K83MLX9HTA.com.beezone.app" ],
                 "paths": ["*","/works"],
-                "components": [
-                    {
-                       "#": "no_universal_links",
-                       "exclude": true,
-                       "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
-                    }
-                ]
             }
         ]
     },
