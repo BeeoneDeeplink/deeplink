@@ -5,7 +5,7 @@
             {
                 "appID": "K83MLX9HTA.com.beezone.app",
                 "appIDs": [ "K83MLX9HTA.com.beezone.app" ],
-                "paths": ["*","/works"],
+                "paths": ["*","/works"]
             }
         ]
     },
