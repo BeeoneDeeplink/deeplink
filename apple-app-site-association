@@ -5,10 +5,7 @@
             {
                 "appID": "K83MLX9HTA.com.beezone.app",
                 "appIDs": [ "K83MLX9HTA.com.beezone.app" ],
-                "paths": [
-                    "NOT /_/*",
-                    "/academy/*"
-                ],
+                "paths": ["*","/works"],
                 "components": [
                     {
                        "#": "no_universal_links",
